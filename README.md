@@ -1,4 +1,4 @@
-##Hello, This is Heeju Heo
+Hello, This is Heeju Heo
 
 - 👋 Hi, I’m Heeju Heo, but you can call me Jenny
 - 👀 I’m interested in doing somthing with computers
