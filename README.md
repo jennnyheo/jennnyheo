@@ -1,8 +1,8 @@
 <div align="center">
-  ### Hello, This is Heeju Heo
- 
 
-  [![Hi[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennnyheo&count_bg=%23CFE7BC&title_bg=%2375D356&icon=&icon_color=%23EFF3EA&title=%F0%9F%8D%95+hits&edge_flat=false)](https://github.com/jennnyheo)
+  ## HELLO, THIS IS HEEJU HEO! 😁
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennnyheo&count_bg=%23CFE7BC&title_bg=%2375D356&icon=&icon_color=%23EFF3EA&title=%F0%9F%8D%95+hits&edge_flat=false)](https://github.com/jennnyheo)
   
 </div> 
 
@@ -12,8 +12,12 @@
 - 💞️ I like to learn new things and work with people
 - 📫 How to reach me heejuheo13@gmail.com THANKS!!
 - 🎈 This is my portfolio web site! written in Korean and used React.js 
+ 
+ 
 <div align="center">  
- ## 🚀 TECH
+ 
+ ## 🚀 TECH 
+#### that I have experienced 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
