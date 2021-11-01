@@ -7,6 +7,8 @@ Hello, This is Heeju Heo
 - 📫 How to reach me heejuheo13@gmail.com THANKS!!
 - 🎈 This is my portfolio web site! written in Korean and used React.js 
 
+<div align="center">
+  
  ## 🚀 TECH
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
@@ -21,6 +23,10 @@ Hello, This is Heeju Heo
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jennnyheo.github.io/JENNY_PORTFOLIO/index.html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heeju-heo-a400a3172)
+
+
+</div>
+
 
 <!---
 jennnyheo/jennnyheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
