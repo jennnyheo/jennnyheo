@@ -1,4 +1,7 @@
-Hello, This is Heeju Heo
+<div align="center">
+  ###Hello, This is Heeju Heo
+  
+  [![Hi[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennnyheo&count_bg=%23CFE7BC&title_bg=%2375D356&icon=&icon_color=%23EFF3EA&title=%F0%9F%8D%95+hits&edge_flat=false)](https://hits.seeyoufarm.com)ts](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennnyheo&count_bg=%23CFE7BC&title_bg=%2375D356&icon=&icon_color=%23EFF3EA&title=%F0%9F%8D%95+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 👋 Hi, I’m Heeju Heo, but you can call me Jenny
 - 👀 I’m interested in doing somthing with computers
@@ -6,8 +9,6 @@ Hello, This is Heeju Heo
 - 💞️ I like to learn new things and work with people
 - 📫 How to reach me heejuheo13@gmail.com THANKS!!
 - 🎈 This is my portfolio web site! written in Korean and used React.js 
-
-<div align="center">
   
  ## 🚀 TECH
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -23,6 +24,9 @@ Hello, This is Heeju Heo
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jennnyheo.github.io/JENNY_PORTFOLIO/index.html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heeju-heo-a400a3172)
+
+
+![HEEJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennnyheo&theme=vue&show_icons=true)
 
 
 </div>
