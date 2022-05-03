@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## HELLO, THIS IS HEEJU HEO! 😁
+  ## HELLO 😁
   👋 안녕하세요 허희주 입니다. 반갑습니다 👋
   <br />  <br />
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennnyheo&count_bg=%23CFE7BC&title_bg=%2375D356&icon=&icon_color=%23EFF3EA&title=%F0%9F%8D%95+hits&edge_flat=false)](https://github.com/jennnyheo)
