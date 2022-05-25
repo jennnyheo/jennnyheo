@@ -47,7 +47,7 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-657379?style=for-the-badge&logo=ko-fi&logoColor=white)](https://practical-villani-3a56ad.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heeju-heo-a400a3172)
-[![notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/Jennie-Dev-Home-e7dec4bce6c441f5a08ba1b43f5b73cd)
+[![notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=Notion&logoColor=white)](https://tasteful-hardcover-5b7.notion.site/Jennie-Dev-Home-932a1794701940c995c2df2531c14825)
 
 ![HEEJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennnyheo&theme=vue&show_icons=true)
 
