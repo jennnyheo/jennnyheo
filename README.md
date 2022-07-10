@@ -54,6 +54,9 @@
 
 </div>
 
+##### 🔗 Studying 
+
+[![terminology](https://img.shields.io/badge/terminology-3884FF?style=flat&logo=GitBook&logoColor=white)](https://tasteful-hardcover-5b7.notion.site/6e9fc17cf4f344e7956126a84bff7aa5?v=884e2d56f7fe4f068c39d5944e4452f5)
 
 <!---
 jennnyheo/jennnyheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
